@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "rn_starter_template",
-    "slug": "rn_starter_template",
+    "name": "Hello World App",
+    "slug": "hello-world-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "rnstartertemplate",
+    "scheme": "helloworldapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.appifex.rnstarter",
+      "bundleIdentifier": "com.appifex.helloworld",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.appifex.rnstarter"
+      "package": "com.appifex.helloworld"
     },
     "web": {
       "bundler": "metro",
@@ -54,6 +54,7 @@
     },
     "updates": {
       "url": "https://u.expo.dev/061c5224-6212-468e-8c83-85a382f9ab0d"
-    }
+    },
+    "description": "A simple Hello World application built with React Native and Expo"
   }
 }
