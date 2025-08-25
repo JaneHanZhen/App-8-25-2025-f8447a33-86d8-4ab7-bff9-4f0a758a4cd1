@@ -33,7 +33,7 @@ export default function HomeScreen() {
           }
         ]}
       >
-        <Text style={styles.title}>Hello World!</Text>
+        <Text style={styles.title}>Hello Zhen!</Text>
         <Text style={styles.subtitle}>Welcome to my React Native app</Text>
         
         <View style={styles.infoContainer}>
